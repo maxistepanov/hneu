@@ -1,0 +1,25 @@
+www:
+~~~~
+internal url: http://192.168.1.2/kafesn/www/
+external url: http://www.kafesn.hneu.edu.ua/
+
+ftp:
+~~~~
+internal url: ftp://192.168.1.2/ (passive mode)
+login: ftp_kafesn
+passwd: 9GWobcx7Eq
+
+mysql:
+~~~~~~
+addr: localhost
+login: kafesn
+passwd: eZjc9nxt6b
+dbase: kafesn
+
+mysqladmin:
+~~~~~~~~~~~
+internal url: http://192.168.1.2/kafesn/www/_/
+external url: http://www.kafesn.hneu.edu.ua/_/
+login: adm_kafesn
+passwd: 2BjRmldRny
+
